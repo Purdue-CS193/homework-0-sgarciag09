@@ -1,4 +1,4 @@
-# '**\<Sgarciag09\>'s First CS193 Homework**'
+# **\<Sgarciag09\>'s First CS193 Homework**
 
 - _Special Word!_
 - _Easy to follow information taught_
